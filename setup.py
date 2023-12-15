@@ -2,7 +2,7 @@ from setuptools import setup
   
 setup( 
     name='mordenizedtk', 
-    version='rc1.0', 
+    version='1.0rc1', 
     description='Get more mordenized gui', 
     author='Tiji', 
     author_email='abctiji@gmail.com', 
